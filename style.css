@@ -1,9 +1,9 @@
 body {
   background-color: #6a5acd;
-  font-family: Tahoma, sans-serif; 
+  font-family: Tahoma; 
   color: #3c3c3c;
 }
-.Kartu-profil {
+.kartu-profil {
   width: 300px;
   margin: 50px auto;
   padding: 20px;
@@ -12,7 +12,7 @@ body {
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   text-align: center;
 }
-.Kartu-profil img {
+.kartu-profil img {
   width: 150px;
   border-radius: 50%;
 }
